@@ -31,6 +31,22 @@ e_voting/
 3. Ikuti menu navigasi untuk menggunakan aplikasi.
 
 ## Dibuat oleh:
-- [Nama Mahasiswa]
-- [NIM]
-- [Kelas]
+- Yudha Yudistira
+- 20240040128
+- TI24H
+#
+- M.Rizky Akbar Supandi
+- 20240040198
+- TI24H
+#
+- Rifa Adritya Pamungkas
+- 20240040176
+- TI24H
+#
+- M.Denindra Pratama
+- 20240040290
+- TI24H
+#
+- M.Rahman Qodiri
+- 20240040014
+- TI24H 
