@@ -41,7 +41,7 @@ e_voting/
 #
 - Rifa Adritya Pamungkas
 - 20240040176
-- TI24A
+- TI25B
 #
 - M.Denindra Pratama
 - 20240040290
